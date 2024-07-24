@@ -7,7 +7,5 @@ This app allows user to quickly and easily create a README file by using a comma
 ## Links
 
 * Github repo : https://github.com/hmd-asg/Readme-Generator
-
-## Usage
-
+* Link to video explanation : https://drive.google.com/file/d/1dZ3lpTMltFcYU2qaLJodUvvXjKdv3KsF/view?usp=sharing
 
